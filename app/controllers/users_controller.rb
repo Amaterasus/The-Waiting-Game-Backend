@@ -11,7 +11,6 @@ class UsersController < ApplicationController
        if user.save
          render json: user
        else 
-        byebug
         # render json: { errors: user.errors.full_messages }, status:400
          render :nothing => true, :status => :bad_request
        end
