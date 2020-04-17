@@ -92,7 +92,7 @@ drinks = [
     },
     {
         name: "Appletini",
-        img_url: "https://lh3.googleusercontent.com/proxy/0LNvWCDIqaJNsKZmAXX173IQXCKKIfax3Zeo0K8Cnp_5TVl-1XL9DxaklvTmryOhcyecaU7TkJ5CybWVrygu7N5mlZDLgE4",
+        img_url: "https://us.inshaker.com/uploads/cocktail/promo/125/square_1542205113-Apple_martini_promo.jpg",
         description: "The apple martini (or appletini) is a sweet, delicious cocktail that's fun to mix up and share with friends.",
         drink_type: "Cocktail",
         price: 6.50
@@ -102,7 +102,7 @@ drinks = [
         img_url: "https://d3eh3svpl1busq.cloudfront.net/wzdJHFXRxRpWvgQwVeSWcojlWHMCDQoC/assets/static/source/rev-31ef25b/wp-content/uploads/2018/01/sapphire-martini-3-1.jpg",
         description: "Boasting a distinctive blue hue and an extra sweet punch, this Blue Martini is almost too pretty to drink. ",
         drink_type: "Cocktail",
-        price: 1
+        price: 4.50
     },
     # Shots
     {
