@@ -102,7 +102,7 @@ drinks = [
         img_url: "https://d3eh3svpl1busq.cloudfront.net/wzdJHFXRxRpWvgQwVeSWcojlWHMCDQoC/assets/static/source/rev-31ef25b/wp-content/uploads/2018/01/sapphire-martini-3-1.jpg",
         description: "Boasting a distinctive blue hue and an extra sweet punch, this Blue Martini is almost too pretty to drink. ",
         drink_type: "Cocktail",
-        price: 1
+        price: 4.50
     },
     # Shots
     {
