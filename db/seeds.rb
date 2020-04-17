@@ -92,7 +92,7 @@ drinks = [
     },
     {
         name: "Appletini",
-        img_url: "https://lh3.googleusercontent.com/proxy/0LNvWCDIqaJNsKZmAXX173IQXCKKIfax3Zeo0K8Cnp_5TVl-1XL9DxaklvTmryOhcyecaU7TkJ5CybWVrygu7N5mlZDLgE4",
+        img_url: "https://us.inshaker.com/uploads/cocktail/promo/125/square_1542205113-Apple_martini_promo.jpg",
         description: "The apple martini (or appletini) is a sweet, delicious cocktail that's fun to mix up and share with friends.",
         drink_type: "Cocktail",
         price: 6.50
