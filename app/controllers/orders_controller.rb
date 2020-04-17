@@ -3,9 +3,9 @@ class OrdersController < ApplicationController
 
     def index
         orders = Order.all
-        render json: orders, except: [:updated_at, :created_at]
-
+        render json: orders, :include => [:items], :except => [:updated_at, :created_at]
     end
+    # render :json => @programs, :include => {:insurer => {:only => :name}}, :except => [:created_at, :updated_at]
     
     def create 
         order = Order.create(user_params)
